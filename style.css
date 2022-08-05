@@ -1,3 +1,26 @@
-.container-fluid{
-    border: 2px solid green;
+#header{
+    background: pink;
+}
+#menu{
+    background: skyblue;
+    }
+#menu ul{
+    list-style: none;
+    margin: 0;
+}
+#menu ul li{
+    display: inline-block;
+}
+#content{
+    background: white;
+}
+#sidebar{
+    background: orange;
+    background: url(https://picsum.photos/380/206);
+}
+#footer{
+    background: pink;
+}
+body{
+    background: #111;
 }
